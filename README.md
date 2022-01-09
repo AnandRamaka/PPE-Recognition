@@ -1,4 +1,5 @@
 PPERecognition 
 
+Instructions for use:
 
-Use "python PPE.py" to run the file
+python PPE.py
